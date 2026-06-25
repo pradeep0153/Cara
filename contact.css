@@ -53,7 +53,7 @@
 }
 
 #contact-details .details li i {
-    font-size: 16px;
+    font-size: 1rem;
     padding-right: 20px;
     color: var(--accent);
     margin-top: 2px;
@@ -61,7 +61,7 @@
 
 #contact-details .details li p {
     margin: 0;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.6;
     color: var(--text-secondary);
 }
@@ -112,7 +112,7 @@
     color: var(--text-primary);
     border-radius: 8px;
     font-family: inherit;
-    font-size: 14px;
+    font-size: 0.875rem;
     transition: all 0.3s ease;
 }
 
@@ -190,7 +190,7 @@
 
 #contact-section .people p span {
     display: block;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     color: var(--text-primary);
     margin-bottom: 2px;

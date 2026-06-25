@@ -120,7 +120,7 @@ button.normal {
     padding: 15px 30px;
     text-decoration: none;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
     border-radius: 4px;
     outline: none;
@@ -135,7 +135,7 @@ button.white {
     text-decoration: none;
     font-weight: 600;
     border: 1px solid white;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
     outline: none;
 
@@ -483,7 +483,7 @@ button.white .ripple-effect {
 #product1 .pro .des h5 {
     color: var(--text-primary);
     font-weight: 600;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.35;
     margin: 2px 0;
     white-space: nowrap;
@@ -554,7 +554,7 @@ button.white .ripple-effect {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
     transition: background 0.25s ease, color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
     text-decoration: none;
@@ -582,7 +582,7 @@ button.white .ripple-effect {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 16px;
+    font-size: 1rem;
     transition: all 0.25s ease;
     text-decoration: none;
 }
@@ -602,7 +602,7 @@ footer .newsletter-footer {
 }
 
 footer .newsletter-footer p {
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.6;
     margin: 10px 0 18px;
     color: var(--text-secondary);
@@ -626,7 +626,7 @@ footer .newsletter-form input {
     border: 1px solid #d1d1d1;
     border-radius: 6px;
     outline: none;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 footer .newsletter-form button {
@@ -775,7 +775,7 @@ footer .copyright {
             border-radius: 12px;
             background: #ffffff;
             color: #1e293b;
-            font-size: 14px;
+            font-size: 0.875rem;
             font-weight: 500;
             font-family: 'Outfit', 'Segoe UI', sans-serif;
             box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12), 0 2px 8px rgba(0, 0, 0, 0.06);
@@ -1529,7 +1529,7 @@ footer .copyright {
                 }
 
                 #newsletter p {
-                    font-size: 16px;
+                    font-size: 1rem;
                 }
 
                 #newsletter .form {
@@ -1716,7 +1716,7 @@ footer .copyright {
                 input,
                 textarea,
                 select {
-                    font-size: 16px !important;
+                    font-size: 1rem !important;
                     border-radius: 6px;
                 }
 
@@ -1729,7 +1729,7 @@ footer .copyright {
                     width: 100%;
                     text-align: center;
                     padding: 14px 20px;
-                    font-size: 16px;
+                    font-size: 1rem;
                     border-radius: 6px;
                     touch-action: manipulation;
                 }
@@ -1754,7 +1754,7 @@ footer .copyright {
                 }
 
                 #navbar li a {
-                    font-size: 16px;
+                    font-size: 1rem;
                 }
 
                 h1 {
@@ -1819,7 +1819,7 @@ footer .copyright {
                 }
 
                 #feature .fe-box h6 {
-                    font-size: 14px;
+                    font-size: 0.875rem;
                 }
 
                 #product1 .pro-container {
@@ -1913,7 +1913,7 @@ footer .copyright {
                 }
 
                 #newsletter p {
-                    font-size: 16px;
+                    font-size: 1rem;
                 }
 
                 #newsletter .form {
@@ -2141,7 +2141,7 @@ footer .copyright {
                 input,
                 textarea,
                 select {
-                    font-size: 16px !important;
+                    font-size: 1rem !important;
                 }
             }
 
@@ -2188,7 +2188,7 @@ footer .copyright {
                 }
 
                 p {
-                    font-size: 16px;
+                    font-size: 1rem;
                 }
 
                 #feature {
@@ -2318,7 +2318,7 @@ footer .copyright {
                 }
 
                 #hero h4 {
-                    font-size: 14px;
+                    font-size: 0.875rem;
                     padding-bottom: 8px;
                 }
 
@@ -2409,7 +2409,7 @@ footer .copyright {
                 }
 
                 #banner3 h3 {
-                    font-size: 16px;
+                    font-size: 1rem;
                 }
 
                 #newsletter {
@@ -2422,7 +2422,7 @@ footer .copyright {
                 }
 
                 #newsletter p {
-                    font-size: 14px;
+                    font-size: 0.875rem;
                 }
 
                 #newsletter .form {
@@ -2436,7 +2436,7 @@ footer .copyright {
                 }
 
                 footer h4 {
-                    font-size: 16px;
+                    font-size: 1rem;
                     margin-bottom: 12px;
                 }
 
@@ -2571,16 +2571,16 @@ footer .copyright {
                 input,
                 textarea,
                 select {
-                    font-size: 16px !important;
+                    font-size: 1rem !important;
                     border-radius: 6px;
                 }
 
                 footer p {
-                    font-size: 14px;
+                    font-size: 0.875rem;
                 }
 
                 footer a {
-                    font-size: 14px;
+                    font-size: 0.875rem;
                 }
 
                 #pro-details {
@@ -2592,7 +2592,7 @@ footer .copyright {
                 }
 
                 #pro-details .single-pro-details h4 {
-                    font-size: 16px;
+                    font-size: 1rem;
                     padding: 20px 0 12px;
                 }
 
@@ -2644,7 +2644,7 @@ footer .copyright {
                 }
 
                 #cart table {
-                    font-size: 14px;
+                    font-size: 0.875rem;
                 }
 
                 #cart table img {
@@ -2676,7 +2676,7 @@ footer .copyright {
 
                 #pagination a {
                     padding: 10px 14px;
-                    font-size: 14px;
+                    font-size: 0.875rem;
                     min-width: 40px;
                 }
 
@@ -2685,7 +2685,7 @@ footer .copyright {
                 }
 
                 #shop-hero p {
-                    font-size: 16px;
+                    font-size: 1rem;
                 }
 
                 #blog-head h2,
@@ -2742,7 +2742,7 @@ footer .copyright {
                 #newsletter .form input,
                 #newsletter .form button {
                     padding: 10px;
-                    font-size: 14px;
+                    font-size: 0.875rem;
                 }
 
                 #form-details {
@@ -3159,7 +3159,7 @@ footer .copyright {
             #feature .fe-box p,
             #feature .fe-box span {
                 color: var(--text-secondary);
-                font-size: 14px;
+                font-size: 0.875rem;
                 margin: 6px 0 0;
             }
 

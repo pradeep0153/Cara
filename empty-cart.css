@@ -40,7 +40,7 @@ body.dark-mode #empty-cart-state h2 {
 }
 
 #empty-cart-state p {
-    font-size: 16px;
+    font-size: 1rem;
     color: #666;
     margin-bottom: 30px;
 }
@@ -55,7 +55,7 @@ body.dark-mode #empty-cart-state p {
     padding: 14px 30px;
     border-radius: 4px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     transition: background-color 0.3s ease;
 }

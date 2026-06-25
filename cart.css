@@ -91,7 +91,7 @@ body footer.section-p1 .col {
 
 body footer.section-p1 h4 {
   color: #ffffff !important;            
-  font-size: 14px !important;           
+  font-size: 0.875rem !important;           
   font-weight: 700 !important;
   margin-bottom: 10px !important;       
   text-transform: uppercase !important;
@@ -328,7 +328,7 @@ body footer.section-p1 .copyright a {
             .subtotal table td {
                 width: 50%;
                 padding: 10px;
-                font-size: 16px;
+                font-size: 1rem;
                 border: 1px solid #c9cbce;
             }
 
@@ -374,7 +374,7 @@ body footer.section-p1 .copyright a {
     grid-template-columns: 3.5fr 1fr 1.5fr 1.2fr;
     padding: 15px 20px;
     border-bottom: 2px solid var(--border-color);
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 600;
     text-transform: uppercase;
 }
@@ -554,7 +554,7 @@ body footer.section-p1 .copyright a {
             text-align: center;
             border: none;
             background: transparent;
-            font-size: 14px;
+            font-size: 0.875rem;
             font-weight: 700;
             color: var(--text-primary);
             pointer-events: none;
@@ -574,7 +574,7 @@ body footer.section-p1 .copyright a {
         }
 
         .cart-item-subtotal {
-            font-size: 16px;
+            font-size: 1rem;
             font-weight: 600;
             color: var(--accent);
         }
@@ -625,7 +625,7 @@ body footer.section-p1 .copyright a {
             border: 1.5px solid var(--border-color);
             background: var(--card-bg);
             color: var(--text-primary);
-            font-size: 14px;
+            font-size: 0.875rem;
             font-weight: 600;
             border-radius: 30px;
             text-decoration: none;
@@ -741,7 +741,7 @@ body footer.section-p1 .copyright a {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            font-size: 14px;
+            font-size: 0.875rem;
             color: var(--text-secondary);
         }
 
@@ -791,7 +791,7 @@ body footer.section-p1 .copyright a {
             color: #ffffff;
             border: 1.5px solid #000000;
             padding: 15px;
-            font-size: 14px;
+            font-size: 0.875rem;
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 0.5px;
@@ -879,7 +879,7 @@ body footer.section-p1 .copyright a {
             background: var(--accent);
             color: #ffffff;
             font-weight: 700;
-            font-size: 14px;
+            font-size: 0.875rem;
             text-transform: uppercase;
             letter-spacing: 0.5px;
             border-radius: 30px;
@@ -911,7 +911,7 @@ body footer.section-p1 .copyright a {
 @media (max-width: 480px) {
     .cart-item-right { flex-wrap: wrap; justify-content: flex-start; gap: 10px; }
     .cart-item-left { align-items: flex-start; }
-    .cart-item-title { font-size: 14px; word-break: break-word; }
+    .cart-item-title { font-size: 0.875rem; word-break: break-word; }
 }
 .cart-summary-column { height: 100%; align-self: start; }
 

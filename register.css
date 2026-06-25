@@ -56,7 +56,7 @@
 
 .form-group label {
   display: block;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 600;
   color: var(--text-primary);
   margin-bottom: 8px;
@@ -172,7 +172,7 @@
 .switch-auth {
   text-align: center;
   margin-top: 24px;
-  font-size: 14px;
+  font-size: 0.875rem;
   color: var(--text-secondary);
   transition: color 0.3s ease;
 }
@@ -229,7 +229,7 @@
   color: #088178;
 }
 .role-card strong {
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 700;
   color: #222;
 }
@@ -267,7 +267,7 @@
   align-items: center;
   gap: 4px;
   color: var(--text-secondary, #666);
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 500;
   text-decoration: none;
   margin-bottom: 20px;
@@ -288,7 +288,7 @@
   margin-left: 2px;
 }
 .required-note {
-  font-size: 14px;
+  font-size: 0.875rem;
   margin-bottom: 12px;
   color: var(--text-secondary, #555);
 }
@@ -318,7 +318,7 @@
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 14px;
+  font-size: 0.875rem;
   cursor: pointer;
   color: var(--text-primary, #444);
 }

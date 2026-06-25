@@ -72,7 +72,7 @@ body[data-theme="dark"] {
     color: #111;
     border: none;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 0.875rem;
     padding: 12px 24px;
     border-radius: 6px;
     cursor: pointer;
@@ -362,7 +362,7 @@ button.normal {
     padding: 15px 30px;
     text-decoration: none;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
     border-radius: 4px;
     outline: none;
@@ -377,7 +377,7 @@ button.white {
     text-decoration: none;
     font-weight: 600;
     border: 1px solid white;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
     outline: none;
 
@@ -581,7 +581,7 @@ button.white .ripple-effect {
 
 #navbar li a {
     text-decoration: none;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 500;
     color: var(--text-primary);
 }
@@ -905,7 +905,7 @@ footer ~ * {
     }
 
     #hero p {
-        font-size: 16px;
+        font-size: 1rem;
     }
 
     .slider-btn {
@@ -1185,7 +1185,7 @@ footer ~ * {
     width: 46px !important;
     height: 46px !important;
     border-radius: 50% !important;
-    font-size: 16px !important;
+    font-size: 1rem !important;
     padding: 0 !important;
     font-weight: normal !important;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
@@ -1292,7 +1292,7 @@ footer ~ * {
 @media (max-width: 520px) {
     #feature { gap: 14px; }
     #feature .fe-box img { height: 56px; }
-    #feature .fe-box h6 { font-size: 14px; }
+    #feature .fe-box h6 { font-size: 0.875rem; }
 }
 
 /* ============================================
@@ -1401,7 +1401,7 @@ footer ~ * {
 #product1 .pro .des h5 {
     color: var(--text-primary);
     font-weight: 600;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.35;
     margin: 2px 0;
     white-space: nowrap;
@@ -1474,7 +1474,7 @@ footer ~ * {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
     transition: background 0.25s ease, color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
     text-decoration: none;
@@ -1502,7 +1502,7 @@ footer ~ * {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 16px;
+    font-size: 1rem;
     transition: all 0.25s ease;
     text-decoration: none;
 }
@@ -1538,7 +1538,7 @@ footer ~ * {
     padding: 14px 18px;
     border: 1px solid var(--border-color);
     border-radius: 12px;
-    font-size: 16px;
+    font-size: 1rem;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
@@ -1613,7 +1613,7 @@ footer ~ * {
     border-radius: 18px;
     background: rgba(8, 129, 120, 0.08);
     color: var(--text-primary);
-    font-size: 16px;
+    font-size: 1rem;
     text-align: center;
     justify-content: center;
 }
@@ -1677,7 +1677,7 @@ footer ~ * {
 
     #searchInput,
     #search-filter select {
-        font-size: 14px;
+        font-size: 0.875rem;
         padding: 12px 14px;
     }
 
@@ -1854,7 +1854,7 @@ footer ~ * {
 #newsletter .form input {
     height: 3.125rem;
     padding: 1.25rem;
-    font-size: 16px;
+    font-size: 1rem;
     width: 100%;
     border: 1px solid transparent;
     outline: none;
@@ -1911,20 +1911,20 @@ footer .logo {
 
 footer h4 {
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     color: var(--footer-text);
 }
 
 footer p {
     margin: 0 0 12px 0;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.6;
     color: var(--footer-text);
 }
 
 footer a {
-    font-size: 14px;
+    font-size: 0.875rem;
     text-decoration: none;
     color: var(--footer-text);
     margin-bottom: 8px;
@@ -1963,7 +1963,7 @@ footer .newsletter-footer {
 }
 
 footer .newsletter-footer p {
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.6;
     margin: 10px 0 18px;
     color: var(--footer-text);
@@ -1989,7 +1989,7 @@ footer .newsletter-form input {
     border: 1px solid var(--border-color, #d1d1d1);
     border-radius: 6px;
     outline: none;
-    font-size: 14px;
+    font-size: 0.875rem;
     background-color: var(--input-bg, #fff);
     color: var(--text-primary);
     box-sizing: border-box;
@@ -2087,7 +2087,7 @@ footer .copyright {
     padding-top: 1rem;
     border-top: 1px solid var(--border-color, #e0e0e0);
     margin-top: 1rem;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 footer .copyright a {
@@ -2139,7 +2139,7 @@ footer .copyright a:hover {
     }
 
     footer h4 {
-        font-size: 14px;
+        font-size: 0.875rem;
     }
 
     footer p {
@@ -2271,7 +2271,7 @@ footer {
     border: none;
     background: transparent;
     padding: 10px 5px;
-    font-size: 16px;
+    font-size: 1rem;
     color: var(--text-primary);
     outline: none;
     box-sizing: border-box;
@@ -2301,7 +2301,7 @@ footer {
 .filter-container label {
     font-weight: 600;
     color: var(--text-primary);
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 #categoryFilter {
@@ -2310,7 +2310,7 @@ footer {
     border: 1px solid var(--border-color);
     background-color: var(--input-bg);
     color: var(--text-primary);
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
     outline: none;
     transition: all 0.3s ease;
@@ -2498,7 +2498,7 @@ footer {
 
     /* Left Panel - Heading & Stats */
     .contact-heading span {
-        font-size: 14px;
+        font-size: 0.875rem;
         font-weight: 600;
         letter-spacing: 2px;
         color: var(--accent);
@@ -2545,7 +2545,7 @@ footer {
     }
 
     .stat-box h4 {
-        font-size: 16px;
+        font-size: 1rem;
         margin-bottom: 8px;
         font-weight: 700;
     }
@@ -2566,7 +2566,7 @@ footer {
     }
 
     .contact-form span {
-        font-size: 14px;
+        font-size: 0.875rem;
         font-weight: 600;
         letter-spacing: 2px;
         color: var(--accent);
@@ -2610,7 +2610,7 @@ footer {
         background-color: var(--accent);
         color: white;
         padding: 16px;
-        font-size: 16px;
+        font-size: 1rem;
         font-weight: 700;
         border-radius: 8px;
         border: none;
@@ -2681,7 +2681,7 @@ footer {
 
     .member-info a {
         display: block;
-        font-size: 14px;
+        font-size: 0.875rem;
         color: var(--text-primary);
         text-decoration: none;
         margin-bottom: 4px;
@@ -2805,7 +2805,7 @@ footer {
         width: 50px;
         height: 47px;
         padding-left: 10px;
-        font-size: 16px;
+        font-size: 1rem;
         margin-right: 10px;
     }
 
@@ -2830,7 +2830,7 @@ footer {
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 14px;
+        font-size: 0.875rem;
         transition: all 0.3s ease;
     }
 
@@ -2870,7 +2870,7 @@ footer {
         border-radius: 50px;
         padding: 0 35px;
         font-weight: 600;
-        font-size: 16px;
+        font-size: 1rem;
         border: none;
         cursor: pointer;
         transition: all 0.3s ease;
@@ -2970,7 +2970,7 @@ footer {
             border-radius: 12px;
             background: #ffffff;
             color: #1e293b;
-            font-size: 14px;
+            font-size: 0.875rem;
             font-weight: 500;
             font-family: 'Outfit', 'Segoe UI', sans-serif;
             box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12), 0 2px 8px rgba(0, 0, 0, 0.06);
@@ -3365,7 +3365,7 @@ footer {
         }
 
         .about-content p {
-            font-size: 16px;
+            font-size: 1rem;
             line-height: 1.7;
             color: #555;
             margin-bottom: 18px;
@@ -3437,7 +3437,7 @@ footer {
 
 /* Label */
 .stat-label {
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 600;
     color: #5f6b7a;
     letter-spacing: 0.2px;
@@ -3851,7 +3851,7 @@ footer {
             }
 
             .cara-heading p {
-                font-size: 16px;
+                font-size: 1rem;
             }
         }
 
@@ -3933,7 +3933,7 @@ footer {
             width: 100%;
             padding: 12px 15px;
             margin-bottom: 25px;
-            font-size: 16px;
+            font-size: 1rem;
             border: 1px solid #e1e1e1;
             outline: none;
         }
@@ -4067,7 +4067,7 @@ footer {
 
         .subtotal table td {
             padding: 12px 10px;
-            font-size: 16px;
+            font-size: 1rem;
             border: 1px solid #c9cbce;
         }
 
@@ -4263,7 +4263,7 @@ footer {
             .subtotal table td {
                 width: 50%;
                 padding: 10px;
-                font-size: 16px;
+                font-size: 1rem;
                 border: 1px solid #c9cbce;
             }
 
